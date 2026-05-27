@@ -22,7 +22,7 @@ Siempre abierto a colaborar, aprender y aportar soluciones claras y bien constru
 
 ### 📁 Portfolio
 Puedes ver mis proyectos y trabajos realizados aquí:
-[🔗 Abrir mi Portafolio](https://portfoliosantiagoarenas-4of9z0162.vercel.app/#home)  
+[🔗 Abrir mi Portafolio]([https://portfoliosantiagoarenas-4of9z0162.vercel.app/#home](https://portfoliosantiagoarenas-i330ob5tv.vercel.app/))  
 
 
 ---
