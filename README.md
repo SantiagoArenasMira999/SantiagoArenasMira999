@@ -3,9 +3,10 @@
 
 <div align="center">
   <!-- Estadísticas Simplificadas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zintrx&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintrx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoArenasMira999&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoArenasMira999&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 </div>
 
 ---
