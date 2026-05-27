@@ -45,3 +45,23 @@ Puedes ver mis proyectos y trabajos realizados aquí:
 <div align="center">
   <sub>Coded with ✨ by Santiago</sub>
 </div>
+
+---
+
+### 🏋️‍♂️ GymManager Ecosystem (Proyecto Fin de Ciclo)
+
+Ecosistema digital completo diseñado para la gestión de gimnasios y centros deportivos. Incluye una aplicación móvil interactiva con enfoque estético en la interfaz de usuario y un backend robusto y escalable para el manejo de datos en tiempo real.
+
+**Stack:** Java · Spring Boot · SQL/JPA · Android · Docker · JavaScript
+
+🔗 Repositorio
+➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://github.com/SantiagoArenasMira999/Portafolio)
+
+🌐 Demo (Portafolio Web)
+➡️ [https://portafolio-omega-flax.vercel.app](https://gymmanager-blush.vercel.app/)
+
+---
+
+### 🏋️‍♂️ Portafolio Web
+➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://portfoliosantiagoarenas-4of9z0162.vercel.app/#projects)
+
