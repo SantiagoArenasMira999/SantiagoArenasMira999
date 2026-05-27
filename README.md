@@ -4,8 +4,8 @@
 <div align="center">
   <!-- Estadísticas Simplificadas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoArenasMira999&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoArenasMira999&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=SantiagoArenasMira999&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SantiagoArenasMira999&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 </div>
 
