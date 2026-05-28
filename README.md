@@ -55,7 +55,7 @@ Ecosistema digital completo diseñado para la gestión de gimnasios y centros de
 **Stack:** Java · Spring Boot · SQL/JPA · Android · Docker · JavaScript
 
 🔗 Repositorio
-➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://github.com/SantiagoArenasMira999/Portafolio)
+➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://github.com/SantiagoArenasMira999/GymManager-TFG)
 
 🌐 Demo (Portafolio Web)
 ➡️ [https://portafolio-omega-flax.vercel.app](https://gymmanager-blush.vercel.app/)
