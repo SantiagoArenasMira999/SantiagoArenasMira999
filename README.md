@@ -58,7 +58,7 @@ Ecosistema digital completo diseñado para la gestión de gimnasios y centros de
 ➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://github.com/SantiagoArenasMira999/GymManager-TFG)
 
 🌐 Demo (Portafolio Web)
-➡️ [https://portafolio-omega-flax.vercel.app](https://gymmanager-blush.vercel.app/)
+➡️ [https://portafolio-omega-flax.vercel.app](https://santiagoarenasmira999.github.io/GymManager-TFG/)
 
 ---
 
