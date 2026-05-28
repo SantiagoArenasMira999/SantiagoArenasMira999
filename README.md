@@ -63,5 +63,5 @@ Ecosistema digital completo diseñado para la gestión de gimnasios y centros de
 ---
 
 ### 🏋️‍♂️ Portafolio Web
-➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://portfoliosantiagoarenas-i330ob5tv.vercel.app/)
+➡️ [https://github.com/SantiagoArenasMira999/Portafolio](https://santiagoarenasmira999.github.io/Portafolio/)
 
